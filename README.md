@@ -25,7 +25,7 @@ To build this project on your pc, follow the following instructions.
 
 Make sure you have either a pyhsical android device connected to your computer or an anrdoid emulator to run the project.
 Use the command `flutter run` to run the application.
-You could also download the application [here](https://github.com/kadiriprosper/hng_shopper/archive/refs/heads/master.zip).
+You could also download the application [here](https://github.com/kadiriprosper/lite_shopper/raw/master/apk/app-release.apk).
 
 ### Features
 
