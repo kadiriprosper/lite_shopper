@@ -8,7 +8,7 @@ String timbuUrl =
     'https://api.timbu.cloud/products?organization_id=$timbuOrgID&Appid=$timbuAppID&Apikey=$timbuAPIkey';
 
 String timbuAppID = 'FTUSP42TP8J4NAF';
-String timbuAPIkey = '6ecc1e8e12e246b08a29a67521442b8d20240707003708891882';
+String timbuAPIkey = const String.fromEnvironment('apiKey');
 String timbuOrgID = '75bb9129c0b64efdbf148d4a28d21191';
 
 class ProductController {
