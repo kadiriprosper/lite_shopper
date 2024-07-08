@@ -16,8 +16,9 @@ To setup the flutter SDK for development, there is a comprehensive guid [here](h
 
 To build this project on your pc, follow the following instructions.
 
-- Clone this repository using the command `git clone  https://github.com/kadiriprosper/hng_shopper.git`.
-- Run `flutter pub get` to get all the required dependencied.
+- Clone this repository using the command `git clone  https://github.com/kadiriprosper/lite_shopper.git`.
+- Put in your apiKey in the `productController.dart`
+- Run `flutter pub get` to get all the required dependencies.
 - Run `flutter build` to build the project into it's respective platforms.
 
 ### Running the application
@@ -33,10 +34,6 @@ You could also download the application [here](https://github.com/kadiriprosper/
 
 ### Screenshots
 
-<img src="https://github.com/kadiriprosper/hng_shopper/blob/master/screenshot/1719870432921.jpg" alt="Splash View" width="200">
+<img src="https://github.com/kadiriprosper/lite_shopper/blob/master/screenshot/Screenshot_2024-07-08-17-50-32-166_com.example.lite_shopper.jpg" alt="Splash View" width="200">
 
-<img src="https://github.com/kadiriprosper/hng_shopper/blob/master/screenshot/1719870432948.jpg" alt="Splash View" width="200">
-
-<img src="https://github.com/kadiriprosper/hng_shopper/blob/master/screenshot/1719870432970.jpg" alt="Splash View" width="200">
-
-<img src="https://github.com/kadiriprosper/hng_shopper/blob/master/screenshot/1719870432993.jpg" alt="Splash View" width="200">
+<img src="https://github.com/kadiriprosper/lite_shopper/blob/master/screenshot/Screenshot_2024-07-08-17-50-36-964_com.example.lite_shopper.jpg" alt="Splash View" width="200">
